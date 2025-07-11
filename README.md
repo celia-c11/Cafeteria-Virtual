@@ -1,28 +1,14 @@
-# Café Grão Dourado - Página de Apresentação
+# Cafeteria - Grão Dourado ☕🍽️
 
-Este é um projeto de página de apresentação para a Cafeteria Grão Dourado, desenvolvido com HTML e CSS.
+Projeto totalmente responsivo usando HTML5, CSS3 e JavaScript.
 
-## Características
+O que tem aqui:
+-Página inicial com imagem de fundo elegante e um botão para entrar para ver o cardápio.
 
-- Design moderno e responsivo
-- Imagem de fundo em tela cheia
-- Tipografia elegante usando Google Fonts
-- Botão de chamada para ação (CTA) com efeitos de hover
-- Layout adaptável para diferentes tamanhos de tela
+-Logo da cafeteria no topo da página com o ícone de busca e o carrinho de compras.
 
-## Tecnologias Utilizadas
+- Cardápio com várias opções de cafés, bebidas deliciosos e um botão de adicionar.
 
-- HTML5
-- CSS3
-- Google Fonts (Playfair Display e Roboto)
+-Carrinho de compras para adicionar, remover e ver o total dos itens.
 
-## Como Executar
-
-1. Clone este repositório
-2. Abra o arquivo `index.html` em seu navegador
-
-## Estrutura do Projeto
-
-- `index.html` - Estrutura da página
-- `styles.css` - Estilos e animações
-- `README.md` - Documentação do projeto 
+-Seção de pagamento via PIX com QR Code, instruções e botão para copiar a chave PIX. 
